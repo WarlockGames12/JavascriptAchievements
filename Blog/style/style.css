@@ -1,0 +1,36 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+    color: black;
+}
+
+h3{
+    font-family: monospace;
+    color: black;
+}
+
+p{
+    text-align: center;
+    font-family: monospace;
+    color: black
+}
+
+.vierkant{
+    height: 50px;
+    width: 100%;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.vierkant2{
+    height: 1500px;
+    width: 100%;
+    background-color: beige;
+    border-radius: 10px;
+    border-color: black;
+    border-width: thick;
+}

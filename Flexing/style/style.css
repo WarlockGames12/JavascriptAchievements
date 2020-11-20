@@ -1,0 +1,17 @@
+body{
+    background-color: aqua
+}
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+  border-radius: 10px;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 10px;
+}
